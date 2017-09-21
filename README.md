@@ -8,7 +8,7 @@ Repositório de arquivos para o workshop básico de javascript
 - IED (10 min)
 - Founder Institute (5 min)
 
-## Desenvolvimento de produtos digitais (11:20 ~ 14:20)
+## Desenvolvimento de produtos digitais (3h - 11:20 ~ 14:20)
 - Tecnologia da Skola (10 min - 11:20 ~ 11:30)
     - Visão geral da empresa (3 min)
     - Tecnologia (7 min)
