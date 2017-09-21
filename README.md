@@ -7,11 +7,11 @@ Repositório de arquivos para o workshop básico de javascript
 - IED (10 min)
 - Founder Institute (5 min)
   
-### Tecnologia da Skola (10 min - 11:20 ~ 11:30)
+## Tecnologia da Skola (10 min - 11:20 ~ 11:30)
 - Visão geral da empresa (3 min)
 - Tecnologia (7 min)
 
-### GIT - Versionamento de arquivos (30 min - 11:30 ~ 12:00)
+## GIT - Versionamento de arquivos (30 min - 11:30 ~ 12:00)
 - Visão geral (10 min)
 - Básico para começar (mão na massa) (20 min)
     - clone - Download inicial do código (3 min)
@@ -20,7 +20,7 @@ Repositório de arquivos para o workshop básico de javascript
     - commit - Apontar (5 min)
     - push - VAAAAI! Manda pra galera! (5 min)
 
-### Pilares do desenvolvimento web (30 min - 12:00 ~ 12:30)
+## Pilares do desenvolvimento web (30 min - 12:00 ~ 12:30)
 - Frontend - O que funciona no seu dispositivo (10 min)
 - Backend - O que funciona no servidor (10 min)
 - HTTP - A cola (10 min)
@@ -28,7 +28,7 @@ Repositório de arquivos para o workshop básico de javascript
     - REST - Padrão de protocolo (3 min)
     - GraphQL - Tendência de protocolo (3 min)
 
-### Backend (30 minutos - 12:30 ~ 13:00)
+## Backend (30 minutos - 12:30 ~ 13:00)
 - Backend as a service - Códigos de prateleira (15 min)
     - Escolher mais 1 serviço para falar (5 min)
     - auth0 - Autenticação de usuários (5 min)
@@ -38,7 +38,7 @@ Repositório de arquivos para o workshop básico de javascript
     - Google functions (5 min)
     - AWS lambda (5 min)
 
-### Frontend (mão na massa) (1 hora - 13:00 ~ 14:00)
+## Frontend (mão na massa) (1 hora - 13:00 ~ 14:00)
 - NPM e yarn - Reutilização de códigos da comunidade (5 min)
 - Node e Express - Como rodar a sua aplicação (5 min)
 - ES6 - Síntaxe da linguagem (5 min)
@@ -48,13 +48,13 @@ Repositório de arquivos para o workshop básico de javascript
 - React - Código do seu produto (25 min)
 - Netlify - Vamos colocar no ar! (5 min)
   
-### Pergunte o que quiser! (20 min - 14:00 ~ 14:20)
+## Pergunte o que quiser! (20 min - 14:00 ~ 14:20)
 
-### Almoço (40 min - 14:20 ~ 15:00)
+## Almoço (40 min - 14:20 ~ 15:00)
 
-### Design de produto (2h 30min - 15:00 ~ 17:30)
+## Design de produto (2h 30min - 15:00 ~ 17:30)
 ```incluir roteiro```
 
-### Encerramento (10 min - 17:30 ~ 17:40)
+## Encerramento (10 min - 17:30 ~ 17:40)
 
 ```20 minutos de gordura para atrasos```
