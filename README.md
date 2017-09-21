@@ -1,13 +1,13 @@
 # Workshop
 Repositório de arquivos para o workshop básico de javascript
 
-## Introdução (50 min - 10:30 ~ 11:20)
+## Abertura (50 min - 10:30 ~ 11:20)
 - Facilitação (25 min)
 - Trama (10 min)
 - IED (10 min)
 - Founder Institute (5 min)
 
-## Desenvolvimento
+## Desenvolvimento de produtos digitais
 - Tecnologia da Skola (10 min - 11:20 ~ 11:30)
     - Visão geral da empresa (3 min)
     - Tecnologia (7 min)
