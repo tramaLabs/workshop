@@ -1,6 +1,7 @@
 # Workshop
 Repositório de arquivos para o workshop básico de javascript
 
+# Roteiro
 ## Abertura (50 min - 10:30 ~ 11:20)
 - Facilitação (25 min)
 - Trama (10 min)
