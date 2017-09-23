@@ -13,15 +13,6 @@ Repositório de arquivos para o workshop básico de javascript
     - Visão geral da empresa (3 min)
     - Tecnologia (7 min)
 
-- GIT - Versionamento de arquivos (30 min - 11:30 ~ 12:00)
-    - Visão geral (10 min)
-    - Básico para começar (mão na massa) (20 min)
-        - clone - *Download inicial do código* (3 min)
-        - pull - *Pegue o que outros colaboradores fizeram* (3 min)
-        - add - *Preparar* (4 min)
-        - commit - *Apontar* (5 min)
-        - push - *VAAAAI! Manda pra galera!* (5 min)
-
 - Pilares do desenvolvimento web (30 min - 12:00 ~ 12:30)
     - Frontend - **O que funciona no seu dispositivo** (10 min)
     - Backend - **O que funciona no servidor** (10 min)
@@ -29,6 +20,15 @@ Repositório de arquivos para o workshop básico de javascript
         - Visão geral (4 min)
         - REST - *Padrão de protocolo* (3 min)
         - GraphQL - *Tendência de protocolo* (3 min)
+ 
+ - GIT - Versionamento de arquivos (30 min - 11:30 ~ 12:00)
+    - Visão geral (10 min)
+    - Básico para começar (mão na massa) (20 min)
+        - clone - *Download inicial do código* (3 min)
+        - pull - *Pegue o que outros colaboradores fizeram* (3 min)
+        - add - *Preparar* (4 min)
+        - commit - *Apontar* (5 min)
+        - push - *VAAAAI! Manda pra galera!* (5 min)
 
 - Backend (30 minutos - 12:30 ~ 13:00)
     - Backend as a service - **Códigos de prateleira** (15 min)
