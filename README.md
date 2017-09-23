@@ -33,7 +33,6 @@ Repositório de arquivos para o workshop básico de javascript
 
 - Backend (30 minutos - 12:30 ~ 13:00)
     - Backend as a service - **Códigos de prateleira** (15 min)
-        - Escolher mais 1 serviço para falar (5 min)
         - auth0 - Autenticação de usuários (5 min)
         - graphcool - Armazenamento de dados (5 min)
     - Serverless - **Configurar servidor é coisa do passado** (15 min)
