@@ -21,7 +21,7 @@ Repositório de arquivos para o workshop básico de javascript
         - REST - *Padrão de protocolo* (3 min)
             - Exemplo Facebook https://developers.facebook.com/docs/graph-api/reference/user/photos/#publish
         - GraphQL - *Tendência de protocolo* (3 min)
- 
+
  - GIT - Versionamento de arquivos (30 min - 12:00 ~ 12:30)
     - Visão geral (10 min)
     - Básico para começar (mão na massa) (20 min)
@@ -51,13 +51,56 @@ Repositório de arquivos para o workshop básico de javascript
         - Webpack - **Empacotador** (5 min)
         - React - **Código do seu produto** (25 min)
         - Netlify - **Vamos colocar no ar!** (5 min)
-  
+
 - Pergunte o que quiser! (20 min - 14:00 ~ 14:20)
 
 ## Almoço (40 min - 14:20 ~ 15:00)
 
-## Design de produto (2h 30min - 15:00 ~ 17:30)
-```incluir roteiro```
+## UX (2h 30min - 15:00 ~ 17:30)
+- UX e Produtos Digitais (10 min - 15:00 ~ 15:10)
+    - O que é UX
+    - Qual o papel do UX Designer
+    - Qual o papel do UX Designer (na prática)
+
+- Processos de Design (10 min - 15:10 ~ 15:20)
+    - Etapas do Processo
+    - Processo Ágil
+    - Lean UX
+    - Sprint
+
+- Métodos de Design (40 min - 15:20 ~ 16:00)
+
+    - Pesquisa
+      + Entrevista com Usuários
+      + Enquete
+      + Observação Contextual
+      + Analytics
+
+    - Design Participatório
+      + Card Sorting
+      + Concept Mapping
+      + Sketching
+
+    - Arquitetura de Informação
+      + Sitemap
+      + User Flow
+      + User Journey
+
+    - UI Design
+      + Wireframes
+      + Mockups
+      + Ferramentas de UI
+
+    - Prototipagem e Validação
+      + Tipos de Protótipos
+      + Ferramentas
+      + Teste de Usabilidade
+      + Heurísticas de Usabilidade
+
+- Break + QA (20 min - 16:00 ~ 16:20)
+
+- Atividade Prática (60 min - 16:20 ~ 17:20)
+
 
 ## Encerramento (10 min - 17:30 ~ 17:40)
 
