@@ -29,6 +29,7 @@ Repositório de arquivos para o workshop básico de javascript
         - add - *Preparar* (4 min)
         - commit - *Apontar* (5 min)
         - push - *VAAAAI! Manda pra galera!* (5 min)
+     - https://gist.github.com/vmattos/d2ce15db30be16297d0eab9220468af2
 
 - Backend (30 minutos - 12:30 ~ 13:00)
     - Backend as a service - **Códigos de prateleira** (15 min)
@@ -41,14 +42,15 @@ Repositório de arquivos para o workshop básico de javascript
         - AWS lambda (5 min)
 
 - Frontend (mão na massa) (1 hora - 13:00 ~ 14:00)
-    - NPM e yarn - **Reutilização de códigos da comunidade** (5 min)
-    - Node e Express - **Como rodar a sua aplicação** (5 min)
-    - ES6 - **Síntaxe da linguagem** (5 min)
-    - Babel - **Evolução da linguagem sem burocracia** (5 min)
-    - ESLint - **Padronização de código** (5 min)
-    - Webpack - **Empacotador** (5 min)
-    - React - **Código do seu produto** (25 min)
-    - Netlify - **Vamos colocar no ar!** (5 min)
+    - https://github.com/tramaLabs/js-stack-from-scratch
+        - NPM e yarn - **Reutilização de códigos da comunidade** (5 min)
+        - Node e Express - **Como rodar a sua aplicação** (5 min)
+        - ES6 - **Síntaxe da linguagem** (5 min)
+        - Babel - **Evolução da linguagem sem burocracia** (5 min)
+        - ESLint - **Padronização de código** (5 min)
+        - Webpack - **Empacotador** (5 min)
+        - React - **Código do seu produto** (25 min)
+        - Netlify - **Vamos colocar no ar!** (5 min)
   
 - Pergunte o que quiser! (20 min - 14:00 ~ 14:20)
 
