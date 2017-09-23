@@ -19,6 +19,7 @@ Repositório de arquivos para o workshop básico de javascript
     - HTTP - **A cola** (10 min)
         - Visão geral (4 min)
         - REST - *Padrão de protocolo* (3 min)
+            - Exemplo Facebook https://developers.facebook.com/docs/graph-api/reference/user/photos/#publish
         - GraphQL - *Tendência de protocolo* (3 min)
  
  - GIT - Versionamento de arquivos (30 min - 12:00 ~ 12:30)
